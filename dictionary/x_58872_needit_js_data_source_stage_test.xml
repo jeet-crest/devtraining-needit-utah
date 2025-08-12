@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="56f58eb5835322104a5bb5b6feaad377" extends="sys_import_set_row" label="JS - Data Source Test" max_length="40" name="x_58872_needit_js_data_source_stage_test" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=short_description" label="short_description" max_length="40" name="u_short_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=number" label="number" max_length="40" name="u_number" type="string"/>
+    </element>
+</database>
